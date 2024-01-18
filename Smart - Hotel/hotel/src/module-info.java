@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author guyko
+ *
+ */
+module hotel {
+}
